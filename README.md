@@ -11,7 +11,7 @@
 
 ## Technologies... 🌐
 
-<img src="https://github.com/user-attachments/assets/a9024c9e-ff27-4445-9cc4-8bd9e6d8826f"  height="55" />
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://github.com/user-attachments/assets/a9024c9e-ff27-4445-9cc4-8bd9e6d8826f"  height="55" /></a>
 <img src="https://github.com/user-attachments/assets/755c3cbc-6b07-4d9d-862c-6561b4e44098"  height="55" />
 <img src="https://github.com/user-attachments/assets/320eecaf-24f3-47fd-afe2-a4c8c032d9a3"  height="55" />
 <img src="https://github.com/user-attachments/assets/19e69098-f942-41e3-b02a-a1eee11f42e5"  height="40" />
